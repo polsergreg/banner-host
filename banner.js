@@ -1,15 +1,15 @@
 (function () {
   const banners = [
     {
-      image: "https://123reklama.ru/img/1win.png",
+      image: "https://github.com/polsergreg/banner-host/img/1win.png",
       link: "https://your-ad1.com"
     },
     {
-      image: "https://123reklama.ru/img/mostbet.png",
+      image: "https://github.com/polsergreg/banner-host/img/mostbet.png",
       link: "https://your-ad2.com"
     },
     {
-      image: "https://123reklama.ru/img/vavada.png",
+      image: "https://github.com/polsergreg/banner-host/img/vavada.png",
       link: "https://your-ad3.com"
     }
   ];
